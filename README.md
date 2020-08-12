@@ -8,7 +8,7 @@
     6) Streamlit==0.64.0
     
 ## Vector Embedding
-    [download here](https://drive.google.com/file/d/1EJwHukpwL085F9atnqawxWkGpeeoSiRj/view?usp=sharing)
+Glove generated vector can be download [here](https://drive.google.com/file/d/1EJwHukpwL085F9atnqawxWkGpeeoSiRj/view?usp=sharing)
 
 ## Run Script
   ```python
