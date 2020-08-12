@@ -14,5 +14,5 @@ Glove generated vector can be downloaded [here](https://drive.google.com/file/d/
 
 ## Run Script
   ```python
-  streamlit run first_app.py
+  streamlit run NER_APP.py
   ```
